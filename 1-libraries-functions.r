@@ -151,9 +151,9 @@ rec.relig12 <- function(religion, denomination, other) {
   )
   
   # Read values for all variables
-  c.relig <- read.csv("Relig/relig.csv")
-  c.denom <- read.csv("Relig/denom.csv")
-  c.other <- read.csv("Relig/other.csv")
+  c.relig <- read.csv("relig/relig.csv")
+  c.denom <- read.csv("relig/denom.csv")
+  c.other <- read.csv("relig/other.csv")
   
   # Create vectors with position corespondign to the code/punch of label in DF codebook for 3 variables 
   c.r <- c()
