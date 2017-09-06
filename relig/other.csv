@@ -1,0 +1,202 @@
+,code,label
+1,0,IAP
+2,1,Hungarian Reformed
+3,2,Evangelical Congregational
+4,3,"Ind Bible, Bible, Bible Fellowship"
+5,5,Church of Prophecy
+6,6,New Testament Christian
+7,7,"Church of God, Saint & Christ"
+8,8,Moravian
+9,9,Christian & Missionary Alliance
+10,10,Advent Christian
+11,11,Spiritualist
+12,12,Assembly of God
+13,13,Free Methodist
+14,14,Apostolic Faith
+15,15,African Methodist
+16,16,Free Will Baptist
+17,17,Eden Evangelist
+18,18,Holiness (Nazarene)
+19,19,Baptist (Northern)
+20,20,"Brethren Church, Brethren"
+21,21,Witness Holiness
+22,22,"Brethren, Plymouth"
+23,23,"United Brethren, United Brethren in Christ"
+24,24,Independent
+25,25,Christian Disciples
+26,26,Christ in Christian Union
+27,27,Open Bible
+28,28,Christian Catholic
+29,29,Christ Church Unity
+30,30,Christ Adelphians
+31,31,Christian; Central Christian
+32,32,Christian Reform
+33,33,Christian Scientist
+34,34,"Church of Christ, Evangelical"
+35,35,Church of Christ
+36,36,Churches of God(Except with Christ and Holiness)
+37,37,Church of God in Christ
+38,38,Church of God in Christ Holiness
+39,39,Church of the Living God
+40,40,"Congregationalist, 1st Congreg"
+41,41,Community Church
+42,42,Covenant
+43,43,Dutch Reform
+44,44,Disciples of Christ
+45,45,"Evangelical, Evangelist"
+46,46,Evangelical Reformed
+47,47,Evangelist Free Church
+48,48,First Church
+49,49,First Christian Disciples of Christ
+50,50,First Reformed
+51,51,First Christian
+52,52,Full Gospel
+53,53,Four Square Gospel
+54,54,Friends
+55,55,Holy Roller
+56,56,Holiness; Church of Holiness
+57,57,Pilgrim Holiness
+58,58,Jehovah's Witnesses
+59,59,LDS
+60,60,LDS--Mormon
+61,61,LDS--Reorganized
+62,62,LDS--Jesus Christ; Church of Jesus LDS
+63,63,Mennonite
+64,64,Mormon
+65,65,Nazarene
+66,66,Pentecostal Assembly of God
+67,67,Pentecostal Church of God
+68,68,Pentecostal
+69,69,"Pentecostal Holiness, Holiness Pentecostal"
+70,70,Quaker
+71,71,Reformed
+72,72,Reformed United Church of Christ
+73,73,Reformed Church of Christ
+74,74,Religious Science
+75,75,Mind Science
+76,76,Salvation Army
+77,77,7th Day Adventist
+78,78,"Sanctified, Sanctification"
+79,79,United Holiness
+80,80,"Unitarian, Universalist"
+81,81,United Church of Christ
+82,82,"United Church, Unity Church"
+83,83,Wesleyan
+84,84,Wesleyan Methodist--Pilgrim
+85,85,Zion Union
+86,86,Zion Union Apostolic
+87,87,Zion Union Apostolic--Reformed
+88,88,Disciples of God
+89,89,Grace Reformed
+90,90,Holiness Church of God
+91,91,Evangelical Covenant
+92,92,Mission Covenant
+93,93,Missionary Baptist
+94,94,Swedish Mission
+95,95,Unity
+96,96,United Church of Christianity
+97,97,Other Fundamentalist
+98,98,Federated Church
+99,99,American Reform
+100,100,Grace Brethren
+101,101,Christ in God
+102,102,Charismatic
+103,103,Pentecostal Apostolic
+104,104,House of Prayer
+105,105,Latvian Lutheran
+106,106,Triumph Church of God
+107,107,Apostolic Christian
+108,108,Christ Cathedral of Truth
+109,109,Bible Missionary
+110,110,Calvary Bible
+111,111,Amish
+112,112,Evangelical Methodist
+113,113,Worldwide Church of God
+114,114,Church Universal and Triumphant
+115,115,Mennonite Brethren
+116,116,Church of the First Born
+117,117,Missionary Church
+118,118,The Way Ministry
+119,119,United Church of Canada
+120,120,Evangelical United Brethren
+121,121,The Church of God of Prophecy
+122,122,Chapel of Faith
+123,123,Polish National Church
+124,124,Faith Gospel Tabernacle
+125,125,Christian Calvary Chapel
+126,126,Carmelite
+127,127,Church of Daniel's Band
+128,128,Christian Tabernacle
+129,129,Living Word
+130,130,True Light Church of Christ
+131,131,Macedonia
+132,132,Brother of Christ
+133,133,Primitive Baptist
+134,134,Independent Fundamental Church of America
+135,135,Chinese Gospel Church
+136,136,New Age Spirituality
+137,137,New Song
+138,138,Apostolic Church
+139,139,Faith Christian
+140,140,People's Church
+141,141,New Birth Christian
+142,142,Unity School of Christianity
+143,143,Assyrian Evangelist Church
+144,144,Spirit of Christ
+145,145,Church of Jesus Christ of the Restoration
+146,146,Laotian Christian
+147,148,Schwenkfelder
+148,149,Polish Catholic
+149,150,Zwinglian
+150,151,World Overcomer Outreach Ministry
+151,152,Course in Miracles
+152,153,Unity of the Brethren
+153,154,Spirit Filled
+154,155,Christian Union
+155,156,Church of Living Christ
+156,157,Community of Christ
+157,158,New Hope Christian Fellowship
+158,159,Community Christian Fellowship
+159,160,Friends in Christ
+160,161,Hawaiian Ohana
+161,162,Reformed Church of Jesus Christ of Latter Day Saints
+162,163,Swedenurgian/Churches of the New Jerusalem
+163,164,Divine Science
+164,165,Church of the Living God
+165,166,United Christian
+166,167,Sanctuary
+167,168,Rain on Us Deliverance Ministries
+168,169,The Word Church
+169,170,Cornerstone Church
+170,171,Life Sanctuary
+171,172,Word of Faith Church
+172,173,Harvest Church
+173,174,Shephard's Chapel
+174,175,Greater New Testament Church
+175,176,Vineyard Church
+176,177,Real Life Ministries
+177,178,Cathedral of Joy
+178,179,Great Faith Ministries
+179,180,Shield of Faith Ministries
+180,181,Born Again
+181,182,Alliance
+182,183,Jacobite Apostolic
+183,184,Church of God of Israel
+184,185,Journeys
+185,186,National Progressive Baptist
+186,187,New Apostolic
+187,188,Metropolitan Community
+188,189,Family Life Church
+189,190,Faith Fellowship
+190,191,Faith Covenant
+191,192,New Thought
+192,193,Free Spirit Ministry
+193,194,Jacobite Syrian Christian Church
+194,195,The Ark Church
+195,196,Empowerment Temple
+196,197,Grace Independent Baptist Church
+197,198,New Life
+198,201,Pathways Christian Church
+199,204,Renia de Deus
+200,998,DK
+201,999,NA
